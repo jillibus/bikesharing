@@ -1,26 +1,25 @@
 # Bikesharing
 
-![logo](images/module12-logo.png)
+![logo](images/module-14-logo.png)
 
 ## Overview
 
-Roza has a partially completed her dashboard that she needs to finish. She has a completed panel for demographic information and now needs to visualize the bacterial data for each volunteer. Specifically, her volunteers should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
-
-I am to help Roza complete her dashboard by presenting the Top 10 bacteria of each of her volunteers in the following ways.
-* A *Horozontial Bar Chart* listing the Top 10 Bacteria (OTU Species) found in their Belly Button
-* A *Bubble Chart* showing all of the Bacteria cultures found in the samples given by the Volunteer
-* A *Gauge Chart* showing the number of weekly scrubbings the volunteer performs on their Belly Button
+This project is to analyze the NYC CitiBike Trip Data in 2018-2019, using Tableau, a data visualization tool, to explore the viability of a bike-sharing business in Des Moines, Iowa.
 
 ## Resources
-* Data Sources: samples.json
-* Software: Visual Basic Studio, JavaScript, Chrome Web Browser, HTML5, CSS, Plotly
+* Data Sources: CitiBike Data, 201908-citibike-tripdata.csv.zip
+* Software: Visual Basic Studio, Python 3.7, Tableau Public
 
 ## Application Link
-<a href="https://jillibus.github.io/BellyButton/">BellyButton Biodiversity Interactive Dashboard</a>
+<a href="https://jillibus.github.io/bikesharing/">bikesharing</a>
+
+## Results
+### CitiBike Tableau Analysis
+<a href="https://public.tableau.com/authoring/CitiBike_Challenge_16393261332470/NYCCitiBikeChallengeStory#1"> CitiBike Challenge</a>
 
 ## RESULTS
 
-## Application Startup
+## NYC CitiBike Data Visualizations for August 2019
 
 The applications startup will initialize with all 3 graphs initialized with the sample Volunteer ID 940.
 
