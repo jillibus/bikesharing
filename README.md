@@ -11,7 +11,7 @@ This project is to analyze the NYC CitiBike Trip Data in 2018-2019, using Tablea
 * Software: Visual Basic Studio, Python 3.7, Tableau Public
 
 ## GitHub Application Link
-<a href="https://jillibus.github.io/bikesharing/">bikesharing</a>
+<a href="https://jillibus.github.io/bikesharing/">Bikesharing</a>
 
 ## CitiBike Tableau Analysis
 <a href="https://public.tableau.com/authoring/CitiBike_Challenge_16393261332470/NYCCitiBikeChallengeStory#1"> CitiBike Challenge</a>
@@ -26,7 +26,7 @@ This project is to analyze the NYC CitiBike Trip Data in 2018-2019, using Tablea
 * The younger riders tend to use the service for longer rides, but there is a wide range of ages, despite the "obvious joke ages entered".
 * The top ride starting locations/stations are Manhattans most touristic and busiest areas.
 
-<img src="images/TopEndingLocations.jpg" width=50% height=50% /> 
+<img src="images/TopEndingLocations.png" width=50% height=50% /> 
 
 * The top ending locations, shown below, also surrond the same areas in Manhattan as the start location/stations.
 
@@ -44,7 +44,7 @@ This project is to analyze the NYC CitiBike Trip Data in 2018-2019, using Tablea
 * The weekend's busiest bike-sharing times are the busiest between 10:00 AM to 07:00 PM.
 * The heatmap also shows, the biggest population that uses the bike-sharing are male riders.
 
-<img src="images/AugustPeakHours.png" width=50% height=50% />
+<img src="images/AugustPeakHours.png" width=75% height=75% />
 
 * The highest activity is utilized from 05:00 PM to 07:00 PM and require the most resources.
 * The lowest activity is during the hours from 02:00 AM to 05:00 AM, this would be the ideal time to perform Bike and Station maintenance.
@@ -58,7 +58,5 @@ Additional analysis that would be beneficial would be:
   * The analysis of the different months throughout the year and temperatures to see how the number of rides differed.
 
 Thank you for your time, and let me know if you wish to see any additional data.
-
-Jill Hughes
 
 Jill Hughes
