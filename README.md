@@ -21,21 +21,38 @@ This project is to analyze the NYC CitiBike Trip Data in 2018-2019, using Tablea
 
 ## NYC CitiBike Data Visualizations for August 2019
 
-The applications startup will initialize with all 3 graphs initialized with the sample Volunteer ID 940.
+### Quick Overview of CitiBike Data
 
-<img src="images/AppStartup.png" width=50% height=50% />
+<img src="images/StoryDashboard.png" width=50% height=50% />
 
-## Interactive Options
-                                       
-Now the user has an opportunity to search the Volunteers by using the dropdown on the left, and choosing any of the Volunteer ID's.  Once chosen, the charts will all change to represent the new Volunteer's results from the study.  
-                                       
-<img src="images/NewVolunteer.png" width=50% height=50% />
+* There were over 2,300,000 rides for the month of August 2019 in New York City alone.
+* The younger riders tend to use the service for longer rides, but there is a wide range of ages, despite the "obvious joke ages entered".
+* The top ride starting locations/stations are Manhattans most touristic and busiest areas.
+* The top ending locations, shown below, also surrond the same areas in Manhattan as the start location/stations.
 
-## Hover Feature on Bubble Chart
+<img src="images/TopEndingLocations.jpg" width=50% height=50% /> 
 
-On the Bubble Chart, the user can use their mouse and hover over any one of the 'bubbles' and the data information will appear.  This will give the user more information on which exact bacteria is represented by the bubble presented.
+---
 
-<img src="images/bubble.jpg" width=50% height=50% />
+<img src="images/TripsbyCheckout.png" width=50% height=50% />
+---
+<img src="images/TripsByGender.png" width=50% height=50% />
+
+* The majority of the rides are finished within the first 30-40 minutes, and lasting under 1 hour.
+* The largest group of users of the CitiBike bike-sharing are male at a little over 65%, although we are seeing quite a few women starting to use the bikes now that there are more available in downtown Manhattan.
+
+---
+
+<img src="images/TripsByWeekday.png" width=50% height=50% />
+
+* The weekday's busiest bike-sharing times are between the 07:00 AM to 09:00 AM and then the 05:00 PM to 07:00 PM timeframes.
+* The weekend's busiest bike-sharing times are the busiest between 10:00 AM to 07:00 PM.
+* The heatmap also shows, the biggest population that uses the bike-sharing are male riders.
+
+<img src="images/AugustPeakHours.png" width=50% height=50% />
+
+* The highest activity is utilized from 05:00 PM to 07:00 PM and require the most resources.
+* The lowest activity is during the hours from 02:00 AM to 05:00 AM, this would be the ideal time to perform Bike and Station maintenance.
 
 ### Summary
 
